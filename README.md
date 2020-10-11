@@ -1,1 +1,1 @@
-# hokkuma.github.io
+# github.io
